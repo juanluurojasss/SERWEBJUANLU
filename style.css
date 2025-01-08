@@ -1,0 +1,43 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header {
+    
+    text-align: center;
+    background-color: rgb(80, 141, 80);
+    gap: 10px;
+    padding: 10px;
+  }
+  
+  .header h1 {
+    margin: 0;
+    color: white; 
+  }
+  
+img {
+
+    float: right;
+
+}
+
+  .header a {
+    text-decoration: none;
+    color: rgb(168, 230, 155); 
+  }
+
+body {
+    background-image: url(bck.png);
+    color: rgb(0, 0, 0);
+    background-color: rgb(240, 240, 240);
+    margin-top: 12px;
+    margin-bottom: 12px;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+p {
+    
+margin-right: 1200px;
+
+}
